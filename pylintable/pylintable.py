@@ -4,7 +4,7 @@ def greeting():
     if random.randint(0, 1):
         return "Hi"
     else:
-        return"Hello"
+        return "Hello"
 
 def print_hi():
     print(greeting())
